@@ -145,7 +145,7 @@ int main() {
 ```
 ---
 
-### **Kesimpulan Analisis**
+## **Kesimpulan Analisis**
 
 1. **Romberg Integration**: Memberikan hasil yang paling akurat dengan error hampir nol (0.00000 A).
 
