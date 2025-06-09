@@ -1,7 +1,8 @@
 # Evaluating Romberg and Gauss Quadrature Methods in Root Mean Square Calculation of Electrical Current
 
 **Nama**: Aliya Rizqiningrum Salamun <br>
-**NPM** : 2306161813
+**NPM** : 2306161813 <br>
+**Kelas** : Komputasi Numerik 02
 ---
 
 ## **Abstrak**
